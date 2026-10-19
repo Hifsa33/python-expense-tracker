@@ -1,4 +1,4 @@
- Personal Expense Tracker 💰
+python-expense-tracker.py 💰
 
 A desktop application built with Python to manage personal income and expenses through a graphical user interface.
 
@@ -41,7 +41,7 @@ The SQLite database will be created automatically when the application starts.
 
 ```text
 python-expense-tracker/
-├── main.py
+├── python-expense-tracker.py
 ├── README.md
 └── expense_tracker.db
 ```
